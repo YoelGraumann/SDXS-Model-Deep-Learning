@@ -1,6 +1,6 @@
 # 🔍 Overview
-This is a project I worked on with my friend Ibrahim Bashir (
-ibrahimxbashir on github). This project explores how to improve the artistic diversity and image accuracy of the Stable Diffusion XS (SDXS) model—a lightweight, efficient latent diffusion model architecture designed for fast and resource-efficient image generation. While SDXS is optimized for speed, it often sacrifices output diversity and fidelity to the input prompt.
+This is a project my good friend Ibrahim Bashir (
+ibrahimxbashir on github) and I worked on during our Master's Degree for the "Advanced Computational Learning and Data Analysis" course. This project explores how to improve the artistic diversity and image accuracy of the Stable Diffusion XS (SDXS) model—a lightweight, efficient latent diffusion model architecture designed for fast and resource-efficient image generation. While SDXS is optimized for speed, it often sacrifices output diversity and fidelity to the input prompt.
 
 To address this limitation, we integrated DreamShaper, a general-purpose stable diffusion model known for high-quality artistic outputs, alongside IP-Adapter techniques. Our approach aims to strike a balance between generation quality and computational efficiency, accepting a trade-off in latency for better visual outcomes.
 
